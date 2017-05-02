@@ -1,0 +1,20 @@
+{
+    "extends": "airbnb",
+    "env": {
+        "browser": true,
+        "node": true
+    },
+
+    "rules": {
+        "indent": [
+            "error", 4
+        ],
+        "max-len": [
+            2, 250, 4
+        ],
+        "linebreak-style": [
+            "error", 
+            "windows"
+        ]
+    }
+}
